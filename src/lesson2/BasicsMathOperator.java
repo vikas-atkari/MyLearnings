@@ -9,7 +9,7 @@ public class BasicsMathOperator {
 		y = 30;
 		result = x % y;  // + - * / % 
 		System.out.println("Result :" + result);
-
+        
 	}
 
 }
